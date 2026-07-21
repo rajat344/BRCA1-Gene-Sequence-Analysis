@@ -2,48 +2,42 @@
 
 Welcome to my Bioinformatics Projects repository!
 
-This repository documents my journey of learning bioinformatics through hands-on projects using Python. It includes beginner programming practice, bioinformatics analyses, and future projects as I continue building my skills.
+This repository documents my journey of learning bioinformatics through hands-on projects using Python. It contains practical analyses, bioinformatics exercises, and projects as I continue developing my skills in computational biology and bioinformatics.
 
 ---
 
 ## 📂 Repository Structure
 
-```
+```text
 Bioinformatics-Projects/
 │
 ├── BRCA1-Gene-Analysis/
-├── Python-Practice/
-├── Biopython/          
-└── Mini-Projects/      
+├── Bioinformatics-Questions/
+├── Biopython/        
+└── Mini-Projects/    
 ```
 
 ---
 
-## 📌 Contents
+## 📌 Current Projects
 
 ### 🧬 BRCA1 Gene Analysis
-- BRCA1 sequence analysis
+- Sequence analysis
 - Gene comparison
 - Reports and visualizations
 
-### 🐍 Python Practice
-- Beginner Python exercises
-- Problem-solving practice
-- Variables
-- Loops
-- Functions
-- Lists
-- Conditional statements
+### 🧬 Bioinformatics Questions
+A collection of bioinformatics-related programming questions and exercises completed while learning Python and computational biology.
 
 ### 🧪 Biopython 
-Projects involving biological sequence analysis using Biopython.
+Projects focused on biological sequence analysis and bioinformatics workflows.
 
 ### 🚀 Mini Projects 
-Small bioinformatics projects that combine multiple concepts and libraries.
+Small practical projects combining programming and bioinformatics concepts.
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Technologies
 
 - Python
 - Jupyter Notebook
@@ -54,17 +48,10 @@ Small bioinformatics projects that combine multiple concepts and libraries.
 
 ## 🎯 Goal
 
-My goal is to build a strong foundation in bioinformatics through consistent hands-on practice and real-world projects. This repository will grow as I learn new concepts and apply them to solve biological problems using Python.
+To build a strong foundation in bioinformatics by creating practical projects, improving programming skills, and applying computational methods to biological data.
+
+This repository will continue to grow as I learn new concepts and work on more challenging projects.
 
 ---
 
-## 📈 Current Progress
-
-- ✅ BRCA1 Gene Analysis
-- ✅ Python Practice (In Progress)
-- ⏳ Biopython
-- ⏳ Mini Projects
-
----
-
-⭐ Thank you for visiting my repository. I'm continuously improving this repository as I learn and build new projects.
+⭐ Thank you for visiting my repository! Feel free to explore my projects and follow my learning journey.
